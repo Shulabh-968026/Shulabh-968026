@@ -2,7 +2,7 @@
 
 **Full-Stack Developer (remote)** · Java, Spring Boot, Python, React · building with Spring AI & MCP
 
-🌐 **Portfolio + AI chat:** [shulabh-dixit.vercel.app](https://shulabh-dixit.vercel.app). Ask my AI clone anything about my work.
+🌐 **Portfolio + AI chat:** [shulabhdixit.com](https://www.shulabhdixit.com). Ask my AI clone anything about my work.
 
 ## What I do
 
@@ -35,8 +35,8 @@
 | **Hospital Management System** | Role-based logins and email OTP reset (Flask, MySQL) | [Code](https://github.com/Shulabh-968026/HospiltalManagement) |
 | **BookHub** | Android app in Kotlin with offline favourites (Room) | [Code](https://github.com/Shulabh-968026/BookHubProject) |
 
-More projects, my experience and certifications are on my **[portfolio](https://shulabh-dixit.vercel.app)**.
+More projects, my experience and certifications are on my **[portfolio](https://www.shulabhdixit.com)**.
 
 ## Reach me
 
-[Portfolio](https://shulabh-dixit.vercel.app) · [LinkedIn](https://www.linkedin.com/in/shulabh-dixit-143152177) · [Email](mailto:shulabhdixit234@gmail.com) · [WhatsApp](https://wa.me/919079884228)
+[Portfolio](https://www.shulabhdixit.com) · [LinkedIn](https://www.linkedin.com/in/shulabh-dixit-143152177) · [Email](mailto:shulabhdixit234@gmail.com) · [WhatsApp](https://wa.me/919079884228)
