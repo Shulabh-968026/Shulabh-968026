@@ -1,5 +1,10 @@
 # Hi, I'm Shulabh 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-shulabhdixit.com-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.shulabhdixit.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-1b1a17?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.shulabhdixit.com/assets/docs/Shulabh_Dixit_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shulabh-dixit-143152177)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://www.shulabhdixit.com/#contact)
+
 **Full-Stack Developer (remote)** · Java, Spring Boot, Python, React · building with Spring AI & MCP
 
 🌐 **Portfolio + AI chat:** [shulabhdixit.com](https://www.shulabhdixit.com). Ask my AI clone anything about my work.
@@ -39,4 +44,8 @@ More projects, my experience and certifications are on my **[portfolio](https://
 
 ## Reach me
 
-[Portfolio](https://www.shulabhdixit.com) · [LinkedIn](https://www.linkedin.com/in/shulabh-dixit-143152177) · [Email](mailto:shulabhdixit234@gmail.com) · [WhatsApp](https://wa.me/919079884228)
+- 🌐 **Portfolio:** [shulabhdixit.com](https://www.shulabhdixit.com) (ask my AI clone about my work)
+- 📄 **Resume:** [Download PDF](https://www.shulabhdixit.com/assets/docs/Shulabh_Dixit_Resume.pdf)
+- ✉️ **Contact form:** [shulabhdixit.com/#contact](https://www.shulabhdixit.com/#contact), or email [shulabhdixit234@gmail.com](mailto:shulabhdixit234@gmail.com)
+- 💼 **LinkedIn:** [shulabh-dixit-143152177](https://www.linkedin.com/in/shulabh-dixit-143152177)
+- 💬 **WhatsApp:** [Chat with me](https://wa.me/919079884228)
