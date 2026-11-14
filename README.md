@@ -46,6 +46,6 @@ More projects, my experience and certifications are on my **[portfolio](https://
 
 - 🌐 **Portfolio:** [shulabhdixit.com](https://www.shulabhdixit.com) (ask my AI clone about my work)
 - 📄 **Resume:** [Download PDF](https://www.shulabhdixit.com/assets/docs/Shulabh_Dixit_Resume.pdf)
-- ✉️ **Contact form:** [shulabhdixit.com/#contact](https://www.shulabhdixit.com/#contact), or email [shulabhdixit234@gmail.com](mailto:shulabhdixit234@gmail.com)
+- ✉️ **Contact form:** [shulabhdixit.com/#contact](https://www.shulabhdixit.com/#contact), or email [shulabhdixit23498@gmail.com](mailto:shulabhdixit23498@gmail.com)
 - 💼 **LinkedIn:** [shulabh-dixit-143152177](https://www.linkedin.com/in/shulabh-dixit-143152177)
 - 💬 **WhatsApp:** [Chat with me](https://wa.me/919079884228)
